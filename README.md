@@ -6,10 +6,10 @@
 - [ASYNK-TASK](https://kodaktor.ru/async_758d4)
 
 ## BABEL-002
-- [BABEL-002]()
+- [BABEL-002](https://kodaktor.ru/bind02032018_b6e7a)
 
 ## EVENT-002
-- [EVENT-002]()
+- [EVENT-002](https://kodaktor.ru/evnt_d6702)
 
 ## FUNC-0XX
 - [FUNC-001]()
