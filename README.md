@@ -3,7 +3,7 @@
 ## Список лабораторных работ:
 
 ## ASYNK-TASK
-- [ASYNK-TASK]()
+- [ASYNK-TASK](https://kodaktor.ru/async_758d4)
 
 ## BABEL-002
 - [BABEL-002]()
