@@ -12,16 +12,16 @@
 - [EVENT-002](https://kodaktor.ru/evnt_d6702)
 
 ## FUNC-0XX
-- [FUNC-001]()
-- [FUNC-002]()
-- [FUNC-003]()
-- [FUNC-004]()
-- [FUNC-005]()
-- [FUNC-006]()
-- [FUNC-007]()
-- [FUNC-008]()
-- [FUNC-009]()
-- [FUNC-010]()
+- [FUNC-001](https://codesandbox.io/s/func001-zl6st)
+- [FUNC-002](https://kodaktor.ru/func_9d933)
+- [FUNC-003](https://kodaktor.ru/func_12e1e)
+- [FUNC-004](https://kodaktor.ru/func_71228)
+- [FUNC-005](https://kodaktor.ru/func_05e7dv)
+- [FUNC-006](https://kodaktor.ru/func_396b0)
+- [FUNC-007](https://kodaktor.ru/func_a8062)
+- [FUNC-008](https://kodaktor.ru/func_568d3)
+- [FUNC-009](https://kodaktor.ru/func_2e64a)
+- [FUNC-010](https://kodaktor.ru/func_033d2)
 
 ## FRMW-0XX
 ### FRMW-001
@@ -43,6 +43,10 @@
 ### FRMW-005
 - [FRMW-005 ВЕБ]()
 - [FRMW-005 ИСХОДНЫЙ КОД]()
+
+### FRMW-006
+- [FRMW-006 ВЕБ]()
+- [FRMW-006 ИСХОДНЫЙ КОД]()
 
 ### FRMW-007
 - [FRMW-007 ВЕБ]()
