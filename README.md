@@ -53,7 +53,8 @@
 - [FRMW-007 ИСХОДНЫЙ КОД](https://github.com/vaytlou/itmo-labs-vaytlou/tree/master/FRMW-0XX/FRMW-007)
 
 ## YOU
-- [YOU]()
+- [YOU ВЕБ](https://vaytlou.github.io/itmo-labs-vaytlou/You/)
+- [YOU ИСХОДНЫЙ КОД](https://github.com/vaytlou/itmo-labs-vaytlou/tree/master/You/)
 
 ## КОРЗИНА
 - [КОРЗИНА ВЕБ]()
