@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <title>Потребительская корзина</title>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width, initial-scale=1, user-scalable=no"
+      name="viewport"
+    />
+    <link href="index.css" rel="stylesheet" />
+  </head>
+
+  <body class="is-preload">
+    <div class="wrapper">
+      <section id="one">
+        <header class="major">
+          <h1>Потребительская корзина</h1>
+          <h3 style="width: 25%;">Бюджет</h3>
+        </header>
+        <div class="wrapper controls__wrapper">
+          <input
+            class="button fit small"
+            name="budget"
+            placeholder="525"
+            style="width: 30%"
+            type="text"
+          />
+          <button class="button primary fit small" style="width: 15%">
+            Enter
+          </button>
+        </div>
+        <div class="wrapper cards__wrapper"></div>
+        <div class="wrapper table__wrapper">
+          <h2 id="cartname">Корзина</h2>
+          <div id="cart">
+            <table style="width:100%">
+              <tr>
+                <th>Товар</th>
+                <th>Цена</th>
+                <th>Количество</th>
+                <th>Сумма</th>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <h2 id="total"></h2>
+        <script src="index.js" type="module"></script>
+      </section>
+    </div>
+  </body>
+</html>
