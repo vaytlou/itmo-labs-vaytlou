@@ -33,8 +33,8 @@
 - [FRMW-002 ИСХОДНЫЙ КОД](https://github.com/vaytlou/itmo-labs-vaytlou/tree/master/FRMW-0XX/FRMW-002)
 
 ### FRMW-003
-- [FRMW-003 ВЕБ]()
-- [FRMW-003 ИСХОДНЫЙ КОД]()
+- [FRMW-003 ВЕБ](https://vaytlou.github.io/itmo-labs-vaytlou/FRMW-0XX/FRMW-003/dist/)
+- [FRMW-003 ИСХОДНЫЙ КОД](https://github.com/vaytlou/itmo-labs-vaytlou/tree/master/FRMW-0XX/FRMW-003)
 
 ### FRMW-004
 - [FRMW-004 ВЕБ]()
