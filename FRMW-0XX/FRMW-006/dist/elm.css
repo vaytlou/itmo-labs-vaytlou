@@ -11,3 +11,27 @@
     justify-content: center;
     align-items: center;
 }
+
+.app__counter-button {
+    border: 1px solid transparent black;
+    border-radius: 2px;
+    padding: .5rem 1rem;
+    cursor: pointer;
+    color: #fff;
+}
+
+.app__counter-button--decrement {
+    background: red;
+    border: 1px solid transparent black;
+}
+
+.app__counter-button--increment {
+    background: green;
+    border: 1px solid transparent black;
+}
+
+.app__counter-value {
+    border: 1px solid transparent black;
+    border-radius: 4px;
+    padding: .5rem 1rem;
+}
